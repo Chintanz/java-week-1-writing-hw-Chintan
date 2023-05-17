@@ -1,3 +1,5 @@
+package packagehomeworkweek5;
+
 public class Programme_4_RightTriangle {
     /**
      * 4. Write a Java Program to print below triangle */

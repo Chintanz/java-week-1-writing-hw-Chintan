@@ -1,3 +1,5 @@
+package packagehomeworkweek5;
+
 public class Programme_2_PrintFace {
     /**
      * 2. Write a Java program to print a face.
